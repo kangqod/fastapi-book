@@ -1,0 +1,8 @@
+{
+  "recommendations": [
+    "esbenp.prettier-vscode", // prettier
+    "ms-python.python", // python
+    "ms-python.black-formatter", // black
+    "wayou.vscode-todo-highlight" // TODO highlight
+  ]
+}
